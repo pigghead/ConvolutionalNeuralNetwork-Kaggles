@@ -1,0 +1,3 @@
+# Files
+PetImages/
+training_data.py.npy
